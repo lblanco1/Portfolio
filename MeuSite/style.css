@@ -1,0 +1,130 @@
+.header-site {
+    background-image:   url(\imagen9.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover ;
+	background-attachment: fixed;   
+    padding-top: 300px;
+    padding-bottom: 300px;
+	opacity: 0.9;
+}
+body{
+	background: brown;
+}
+
+.foo{
+	float:left;
+}
+.bar{
+	padding-left: 45px;
+}
+
+#bbb{
+	font-size: 20px;
+	background-color: blue;
+}
+.rounded{
+	width: 250px;
+	height: 250px;
+	margin-left: 100px;
+	opacity: 0.9;
+	
+}
+.rounded-circle{
+	width: 300px;
+	height:200px;
+}
+.list-group-item{
+	color: white;
+	font-family: "Comic Sans MS";
+}
+.id{
+	color: white;
+	font-size: 45px;
+	font-family: 'Times New Roman', Times, serif;
+	float: left;
+	margin-left: 20px; 
+	
+}
+.texto1{
+	font-size: 20px;
+	
+	
+}
+.id2{
+	color: white;
+	font-size: 45px;
+	font-family: 'Times New Roman', Times, serif;
+	margin: 5px;
+	
+	
+}
+#teste{
+	font-family: 'Times New Roman', Times, serif;
+	margin-left: 290px;
+}
+#rodape{
+	margin-left: 40%;
+}
+#list-item{
+	font-size: 40px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif	
+}
+#perfil{
+	font-size: 25px;
+	font-family: cursive;
+
+}
+#cores{
+	color: white;
+	
+}
+#cores2{
+	color:black;
+}
+#habilidade{
+	font-size: 16px;
+	
+}
+#skil{
+	font-size: 19px;
+}
+#skill_1_pbar{
+	font-size: 40px;
+}
+#skill_2_pbar{
+	font-size: 20px;
+}
+#skill_3_pbar{
+	font-size: 20px;
+}
+#skill_4_pbar{
+	font-size: 20px;
+}
+#skill_5_pbar{
+	font-size: 20px;
+}
+#skill_6_pbar{
+	font-size: 20px;
+}
+#pbar{
+	font-size: 20px;
+}
+footer {
+	display: block;
+}
+#Front{
+	font-size: 40px;
+	color: gold;
+}
+.galeria img:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+#cores10{
+	margin-top: 60px;
+}
+
