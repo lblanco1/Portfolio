@@ -127,4 +127,52 @@ footer {
 #cores10{
 	margin-top: 60px;
 }
+@media only screen and (max-device-width: 500px) {
+	.navbar { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.header-site { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.id { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.id2 { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.list-group-item { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.foo { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.bar { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.texto1 { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.galeria { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.container { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.footer-copyright { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.page-footer { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.progress { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.loaders { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	.nav-item { width:600px; } 
+}
+@media only screen and (max-device-width: 500px) {
+	#list-item5 { width:600px; } 
+}
 
